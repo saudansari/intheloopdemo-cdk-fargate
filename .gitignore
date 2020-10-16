@@ -1,3 +1,6 @@
 src/.vs/
 src/Api.Service/bin/
 src/Api.Service/obj/
+deployment/ckd-api-service/.gitignore
+deployment/ckd-api-service/.npmignore
+deployment/ckd-api-service/package-lock.json
